@@ -7,6 +7,9 @@
 
 3) ערין אבו כף, 212654719
 
+Built a machine learning project, which classifies new data based on trained data. 
+Used algorithms such as: Naïve Bayes Classifier, ID3, KNN and K-means used for clustering.
+
 
 חבילות שנעשו בהם שימוש:
 
