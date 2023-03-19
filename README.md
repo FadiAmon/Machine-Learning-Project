@@ -1,11 +1,9 @@
 # Machine-Learning-Project
-שמות ות"ז:
+שמות:
 
-1) פאדי אמון, 212472542
-
-2) רשיד אבו מדג'ם, 212555650
-
-3) ערין אבו כף, 212654719
+1) פאדי אמון
+2) רשיד אבו מדג'ם
+3) ערין אבו כף 
 
 Built a machine learning project, which classifies new data based on trained data. 
 Used algorithms such as: Naïve Bayes Classifier, ID3, KNN and K-means used for clustering.
