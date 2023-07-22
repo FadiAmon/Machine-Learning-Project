@@ -4,9 +4,7 @@
 1) פאדי אמון
 2) רשיד אבו מדג'ם
 3) ערין אבו כף 
-
-Built a machine learning project, which classifies new data based on trained data. 
-Used algorithms such as: Naïve Bayes Classifier, ID3, KNN and K-means used for clustering.
+Developed a machine learning project with a GUI that employs Naïve Bayes Classifier, ID3, KNN, and K-means algorithms for accurate classification and clustering of new data.
 
 
 חבילות שנעשו בהם שימוש:
